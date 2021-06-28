@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://grcdrmanhattan.github.io/sitemap.xml
